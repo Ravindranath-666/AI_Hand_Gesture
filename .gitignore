@@ -1,0 +1,20 @@
+# gitignore (VERY IMPORTANT)
+`​.gitignore` file create cheyyi  
+ee content paste cheyyi:
+```txt id="git123"
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Virtual environment
+venv/
+env/
+.env/
+# VS Code
+.vscode/
+# System files
+.DS_Store
+Thumbs.db
+# Logs
+*.log
