@@ -53,4 +53,6 @@ python main.py
 
 ## 👨‍💻 Author
 
-Bala Venkata Naga Ravindranath Sangam
+** Bala Venkata Naga Ravindranath Sangam **  
+🎓 MSc Artificial Intelligence and Robotics  
+🏛️ University of Hertfordshire
